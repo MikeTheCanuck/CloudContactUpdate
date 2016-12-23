@@ -1,0 +1,44 @@
+{
+    "values": [
+        {
+            "profileUrl": "https://www.linkedin.com/profile/view?id=AC4AAACtbyoBHVnyUestr2arXfrK-GbI54MnrRY&authType=name&authToken=FR-6",
+            "lastName": "Stark",
+            "addresses": [],
+            "connectionDate": 1181640357000,
+            "legacyMergedContactId": "li_99994025",
+            "sources": [
+                "LINKEDIN"
+            ],
+            "created": 1174934351200,
+            "fullName": "Tony Stark",
+            "title": "Most Arrogant CEO",
+            "phoneNumbers": [],
+            "tags": [
+                {
+                    "name": "colleagues",
+                    "id": "djEmdXJuOmxpOm1lbWJlcjozODgyNjY5JmxpXzIwNDAzNzI5MA=="
+                }
+            ],
+            "emails": [],
+            "firstName": "Anthony",
+            "mergedContactId": "djEmdXJuOmxpOm1lbWJlctonODgyNsY5JtxarKzExMTA0MDM2",
+            "familiarName": "Tony",
+            "graphDistance": "DISTANCE_1",
+            "name": "Tony Stark",
+            "location": "San Diego",
+            "company": {
+                "name": "Stark Enterprises",
+                "id": "djEmdXJuOmxpOm1lbWJlabcdODgyNjZ5JmapX05pY3Jac29mdA=="
+            },
+            "displaySources": [
+                "LinkedIn"
+            ],
+            "memberId": 99994025
+        }
+    ],
+    "paging": {
+        "total": 725,
+        "start": 600,
+        "count": 100
+    }
+}
