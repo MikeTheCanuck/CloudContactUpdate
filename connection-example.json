@@ -12,7 +12,15 @@
             "created": 1174934351200,
             "fullName": "Tony Stark",
             "title": "Most Arrogant CEO",
-            "phoneNumbers": [],
+            "phoneNumbers": [
+                {
+                    "number": "6195558669",
+                    "visible": true,
+                    "sourceType": "LINKEDIN",
+                    "type": "Mobile",
+                    "primary": false
+                }
+            ],
             "tags": [
                 {
                     "name": "colleagues",
@@ -30,6 +38,7 @@
                 "name": "Stark Enterprises",
                 "id": "djEmdXJuOmxpOm1lbWJlabcdODgyNjZ5JmapX05pY3Jac29mdA=="
             },
+            "profileImageUrl": "http://imgur.com/UowWOWZ", 
             "displaySources": [
                 "LinkedIn"
             ],
